@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bugReports>
+    <bugReport>
+        <id>2</id>
+        <severity>high</severity>
+        <title>The error 404 is displayed in the “About the app” section when tapping the item</title>
+        <precondition>
+            <precondition>The app is launched</precondition>
+            <precondition>The app is opened</precondition>
+        <steps>
+            <step>Tap the burger menu</step>
+            <step>Tap the “About the app” item</step>
+        </steps>
+        <actualResult>The error 404 is displayed</actualResult>
+        <expectedResult>The page “About the app” is opened</expectedResult>
+        <status>in process</status>
+    </bugReport>
+</bugReports>
