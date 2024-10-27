@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+    <skill>
+        <name>Terminal</name>
+    </skill>
+    <skill>
+        <name>Git</name>
+    </skill>
+    <skill>
+        <name>DevTools</name>
+    </skill>
+    <skill>
+        <name>Postman</name>
+    </skill>
+    <skill>
+        <name>SQL</name>
+    </skill>
+    <skill>
+        <name>Jmeter</name>
+    </skill>
+    <skill>
+        <name>Swagger</name>
+    </skill>
+</skills>
